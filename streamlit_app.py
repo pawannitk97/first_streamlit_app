@@ -1,6 +1,6 @@
 import streamlit
-streamlit.title('Sparsh Daily Healthy Dinner')
-streamlit.header('Today Menu')
-streamlit.text('Omlette paratha')
-streamlit.text('Daal rice')
-streamlit.text('sabji chapatti')
+streamlit.title('My Parents New Healthy Diner')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
